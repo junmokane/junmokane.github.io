@@ -10,19 +10,11 @@ redirect_from:
 
 I am a Ph.D. student at KAIST in the [Machine Learning and AI (MLAI) Lab](https://www.mlai-kaist.com/), advised by [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). My research interests are in **embodied agents**, **spatially aware intelligence**, and **robotics**. [[CV](https://drive.google.com/file/d/1DXP-4dOzLWvU750MZHhOH7mAQ1gifsDV/view?usp=sharing)]
 
-My earlier research focused on building embodied agents with long-term spatial memory that can remember where they have been and what events occurred in open-ended environments such as Minecraft, as well as on incorporating spatial structure directly into transformer architectures (Spatially-Aware Transformer).
+Previously, I worked on embodied agents with long-term spatial memory in open-ended environments such as Minecraft, and on injecting spatial structure into transformer architectures (Spatially-Aware Transformer).
 
-Recently, my research has shifted toward robotics, with a particular interest in bridging real-world environments and physics-based simulators. I am exploring real2sim2real pipelines that reconstruct real environments in simulation and learn task policies using video-based world models and vision-language-action (VLA) models, with the goal of robust deployment in real-world robotic systems.
+Currently, my work focuses on robotics — building sim2real pipelines that bridge physics-based simulators and the real world via video-based world models and vision-language-action (VLA) models, aiming for robust real-world deployment.
 
 Email: junmokane [at] kaist [dot] ac [dot] kr <br>
-
-## Education
-
-- **Ph.D. in Graduate School of AI**, KAIST, Aug. 2022 – Present <br>
-  Advisor: Prof. Sung Ju Hwang
-- **M.S. in Electrical Engineering**, KAIST, Feb. 2022 <br>
-  Advisor: Prof. Young-Gyu Yoon
-- **B.S. in Electrical Engineering and Computer Science (Double Major, Minor in Mathematical Science)**, KAIST, Feb. 2020
 
 ## Conference
 
@@ -57,3 +49,11 @@ Email: junmokane [at] kaist [dot] ac [dot] kr <br>
 <span> <b>VIEW</b>, </span> 2026
 
 \* denotes equal contribution.
+
+## Education
+
+- **Ph.D. in Graduate School of AI**, KAIST, Aug. 2022 – Present <br>
+  Advisor: Prof. Sung Ju Hwang
+- **M.S. in Electrical Engineering**, KAIST, Feb. 2022 <br>
+  Advisor: Prof. Young-Gyu Yoon
+- **B.S. in Electrical Engineering and Computer Science (Double Major, Minor in Mathematical Science)**, KAIST, Feb. 2020
