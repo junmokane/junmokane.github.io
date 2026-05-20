@@ -44,7 +44,7 @@ Email: junmokane [at] kaist [dot] ac [dot] kr <br>
 
 ## Journal
 
-- <font size="4"><b>Abunmix enables the simple and robust multiplexed immunofluorescence imaging</b></font> [paper] <br>
+- <font size="4"><b>Abunmix enables the simple and robust multiplexed immunofluorescence imaging</b></font> [[paper]](https://onlinelibrary.wiley.com/doi/10.1002/VIW.20250152) <br>
 &#x200B;W. La\*, S. Bae\*, J. Seo\*, H. Yu\*, <U>J. Cho</U>, H. Kim, H. Nam, S. Han, E. Yi, E. Kim, C. Kang, H. Shin, C. W. Song, Y.-G. Yoon, J.-B. Chang <br>
 <span> <b>VIEW</b>, </span> 2026
 
