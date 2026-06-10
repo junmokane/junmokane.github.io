@@ -52,9 +52,9 @@ Email: junmokane [at] kaist [dot] ac [dot] kr <br>
 
 ## Service
 
-**Reviewer**: ICML 2022, 2024, 2026 (*Awarded as Gold Reviewer*), and NeurIPS 2022, 2023.
+**Reviewer.** ICML 2022, 2024, 2026 (*Awarded as Gold Reviewer*), NeurIPS 2022, 2023, and Transactions on Machine Learning Research (TMLR).
 
-**Teaching Assistant**, KAIST: CS672: Reinforcement Learning (Fall 2023, Fall 2024), CS492: Deep Reinforcement Learning and Game AI (Spring 2024, *Best TA Award*), CS492: Deep Reinforcement Learning (Spring 2023), CoE202: Basics of Artificial Intelligence (Fall 2020), MAS101: Calculus I, Freshmen Tutoring (Spring 2019).
+**Teaching Assistant at KAIST.** CS672: Reinforcement Learning (Fall 2023, Fall 2024), CS492: Deep Reinforcement Learning and Game AI (Spring 2024, *Best TA Award*), CS492: Deep Reinforcement Learning (Spring 2023), CoE202: Basics of Artificial Intelligence (Fall 2020), MAS101: Calculus I, Freshmen Tutoring (Spring 2019).
 
 ## Education
 
