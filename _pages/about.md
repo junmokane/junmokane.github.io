@@ -18,33 +18,33 @@ Email: junmokane [at] kaist [dot] ac [dot] kr <br>
 
 ## Conference
 
-**[C6]** <font size="4"><b>SpeedAug: Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning</b></font> [[paper]](https://arxiv.org/abs/2512.00062){:target="_blank"} <br>
+- <font size="4"><b>SpeedAug: Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning</b></font> [[paper]](https://arxiv.org/abs/2512.00062){:target="_blank"} <br>
 &#x200B;Taewook Nam, <U><b>Junmo Cho</b></U>, Youngsoo Jang, Sung Ju Hwang <br>
 <span> Under Submission, </span> 2026
 
-**[C5]** <font size="4"><b>GFlowPO: Generative Flow Network as a Language Model Prompt Optimizer</b></font> [[paper]](https://arxiv.org/abs/2602.03358){:target="_blank"} <br>
+- <font size="4"><b>GFlowPO: Generative Flow Network as a Language Model Prompt Optimizer</b></font> [[paper]](https://arxiv.org/abs/2602.03358){:target="_blank"} <br>
 &#x200B;<U><b>Junmo Cho</b></U>\*, Suhan Kim\*, Sangjune An\*, Minsu Kim, Dong Bok Lee, Heejun Lee, Sung Ju Hwang, Hae Beom Lee <br>
 <span> Under Submission, </span> 2026
 
-**[C4]** <font size="4"><b>Mr. Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory</b></font> [[paper]](https://arxiv.org/abs/2411.06736){:target="_blank"} <br>
+- <font size="4"><b>Mr. Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory</b></font> [[paper]](https://arxiv.org/abs/2411.06736){:target="_blank"} <br>
 &#x200B;Junyeong Park\*, <U><b>Junmo Cho</b></U>\*, Sungjin Ahn <br>
 <span> International Conference on Learning Representations <b>(ICLR)</b>, </span> 2025
 
-**[C3]** <font size="4"><b>Spatially-Aware Transformer for Embodied Agents</b></font> [[paper]](https://arxiv.org/abs/2402.15160){:target="_blank"} <br>
+- <font size="4"><b>Spatially-Aware Transformer for Embodied Agents</b></font> [[paper]](https://arxiv.org/abs/2402.15160){:target="_blank"} <br>
 &#x200B;<U><b>Junmo Cho</b></U>\*, Jaesik Yoon\*, Sungjin Ahn <br>
 <span> International Conference on Learning Representations <b>(ICLR)</b>, </span> 2024 <b>(Spotlight)</b>
 
-**[C2]** <font size="4"><b>Robust and Efficient Image Alignment of Biomedical Images through Simultaneous Low Rank and Sparse Decomposition</b></font> [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Cho_Robust_and_Efficient_Alignment_of_Calcium_Imaging_Data_Through_Simultaneous_WACV_2023_paper.html){:target="_blank"} <br>
+- <font size="4"><b>Robust and Efficient Image Alignment of Biomedical Images through Simultaneous Low Rank and Sparse Decomposition</b></font> [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Cho_Robust_and_Efficient_Alignment_of_Calcium_Imaging_Data_Through_Simultaneous_WACV_2023_paper.html){:target="_blank"} <br>
 &#x200B;<U><b>Junmo Cho</b></U>\*, Seungjae Han\*, Eun-Seo Cho, Kijung Shin, Young-Gyu Yoon <br>
 <span> Winter Conference on Applications of Computer Vision <b>(WACV)</b>, </span> 2023
 
-**[C1]** <font size="4"><b>Inducing Functions through Reinforcement Learning without Task Specification</b></font> [[paper]](https://arxiv.org/abs/2111.11647){:target="_blank"} <br>
+- <font size="4"><b>Inducing Functions through Reinforcement Learning without Task Specification</b></font> [[paper]](https://arxiv.org/abs/2111.11647){:target="_blank"} <br>
 &#x200B;<U><b>Junmo Cho</b></U>, Dong-Hwan Lee, Young-Gyu Yoon <br>
 <span> NeurIPS Workshop on Deep Reinforcement Learning <b>(NeurIPS Workshop Deep RL)</b>, </span> 2022
 
 ## Journal
 
-**[J1]** <font size="4"><b>Abunmix enables the simple and robust multiplexed immunofluorescence imaging</b></font> [[paper]](https://onlinelibrary.wiley.com/doi/10.1002/VIW.20250152){:target="_blank"} <br>
+- <font size="4"><b>Abunmix enables the simple and robust multiplexed immunofluorescence imaging</b></font> [[paper]](https://onlinelibrary.wiley.com/doi/10.1002/VIW.20250152){:target="_blank"} <br>
 &#x200B;Woonggi La\*, Seoungbin Bae\*, Junyoung Seo\*, Hayeong Yu\*, <U><b>Junmo Cho</b></U>, Hyunwoo Kim, Hoyeon Nam, Seungjae Han, Euiin Yi, Eunsu Kim, Chan Kang, Hyejin Shin, Chang Woo Song, Young-Gyu Yoon, Jae-Byum Chang <br>
 <span> <b>VIEW</b>, </span> 2026
 
